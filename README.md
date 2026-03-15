@@ -8,7 +8,7 @@
 - `pdt/radachlorin.py` — параметры Radachlorin®
 - `pdt/calculators.py` — функции расчёта дозы, экспозиции и энергии
 - `pdt/enums.py` — справочные константы и перечисления
-- `examples/demo_calculators.py` — демонстрация работы калькулятора
+- `examples/demo_calculators.py` — демонстрация работы калькулятора 
 - `README.md` — документация
 - `DISCLAIMER.md` — юридические и медицинские предупреждения  
 
