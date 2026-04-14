@@ -3,7 +3,7 @@
 **Photodynamic Therapy (PDT) Core Module** — медицинский Python-модуль для расчёта дозировки и экспозиции при терапии с фотосенсибилизатором **Radachlorin®**.
 
 ## 🧩 Состав модуля
-
+ 
 - `pdt/models.py` — медданные и структуры (датаклассы) для PDT 
 - `pdt/radachlorin.py` — параметры Radachlorin®
 - `pdt/calculators.py` — функции расчёта дозы, экспозиции и энергии
